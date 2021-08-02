@@ -1,4 +1,5 @@
-### Hi, I'm Liza and I'm from Belarus.
+### Hi :panda_face: :cat: :dog:
+### I'm Liza. I'm a beginner Android Developer from Belarus :city_sunrise:.
 
 <br />
 <br />
