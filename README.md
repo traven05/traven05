@@ -1,7 +1,6 @@
 ### Hi :panda_face: :cat: :dog:
 
 <br />
-<br />
 
 ### <p><b>Languages and Tools...</b></p>
 
